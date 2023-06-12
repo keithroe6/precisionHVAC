@@ -88,6 +88,10 @@ nav h3 a:active {
     padding-right: 2%;
 }
 
+#spacer {
+    padding-right: 10rem;
+    padding-left: 1rem;
+}
 
   
   /* Styling the links */
