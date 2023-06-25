@@ -200,6 +200,10 @@ body #calltoaction  {
     }
   }
 
+  #calltoaction h2 {
+    color: #404244;
+  }
+
   /* Default font size */
 #calltoaction {
     font-size: 3rem;
@@ -225,6 +229,15 @@ body #calltoaction  {
     #calltoaction {
       font-size: 2rem;
     }
+  }
+
+  .righttext {
+    width: 100%;
+    height: auto;
+    font-size: 3rem;
+    display: flex;
+    margin: 2rem;
+    color: #404244;
   }
 
   
