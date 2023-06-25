@@ -227,21 +227,14 @@ body #calltoaction  {
     }
   }
 
-  .righttext {
-    width: 500px;
-    margin: 2rem;
-    padding: 2rem;
-    font-size: 3rem;
-    display: flex;
-    justify-content: end;
-  }
-
+  
    /* Default font size */
 .righttext {
   width: 1500px;
-  height: 50vh;
+  height: auto;
   font-size: 3rem;
   display: flex;
+  margin: 2rem;
  }
 
 /* Media query for smaller screens */
@@ -249,8 +242,9 @@ body #calltoaction  {
   .righttext{
     font-size: 1rem;
     width: 500px;
-  height: 50vh;
+  height: auto;
   display: flex;
+  margin: 2rem;
   }
 }
 
@@ -259,8 +253,9 @@ body #calltoaction  {
  .righttext {
     font-size: 1.5rem;
     width: 500px;
-  height: 50vh;
+  height: auto;
   display: flex;
+  margin: 2rem;
   }
 }
 
@@ -269,9 +264,10 @@ body #calltoaction  {
   .righttext{
     font-size: 3rem;
     width: 1500px;
-  height: 50vh;
+  height: auto;
   display: flex;
   flex-direction: row;
+  margin: 2rem;
   }
 }
 
